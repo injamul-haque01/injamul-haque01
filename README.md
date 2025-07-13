@@ -6,7 +6,7 @@ Hi there, I'm Injamul! 👋
 <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-username%26layout%3Dcompact%26theme%3Ddracula"/>
 </a>
 
-🚀 About Me
+🚀 About Me:
 Aerospace Engineering graduate with a passion for aeronautical systems and the application of computational logic. I am currently honing my skills in Python, MATLAB, and C++ with the goal of developing robust and efficient algorithms for aeronautical applications.
 
 🔭 I’m currently working on ... [mention a specific project, e.g., a flight dynamics simulator or a data analysis script for CFD].
